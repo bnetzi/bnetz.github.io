@@ -45,6 +45,6 @@ startButton.onclick = function wordsPrint(){
                     textDiv.innerHTML = `<h1> ${wordsArray[counter]} </h1>`
                 }
 
-        },1000);
+        },7500);
 };
 
